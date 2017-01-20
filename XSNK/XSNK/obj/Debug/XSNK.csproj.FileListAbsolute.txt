@@ -1,0 +1,12 @@
+c:\users\ux17703\documents\visual studio 2013\Projects\XSNK\XSNK\bin\Debug\XSNK.exe.config
+c:\users\ux17703\documents\visual studio 2013\Projects\XSNK\XSNK\bin\Debug\XSNK.exe
+c:\users\ux17703\documents\visual studio 2013\Projects\XSNK\XSNK\bin\Debug\XSNK.pdb
+c:\users\ux17703\documents\visual studio 2013\Projects\XSNK\XSNK\obj\Debug\XSNK.csprojResolveAssemblyReference.cache
+c:\users\ux17703\documents\visual studio 2013\Projects\XSNK\XSNK\obj\Debug\XSNK.exe
+c:\users\ux17703\documents\visual studio 2013\Projects\XSNK\XSNK\obj\Debug\XSNK.pdb
+J:\Desenv\FONTES\DILT\XSNK\XSNK\bin\Debug\XSNK.exe.config
+J:\Desenv\FONTES\DILT\XSNK\XSNK\obj\Debug\XSNK.exe
+J:\Desenv\FONTES\DILT\XSNK\XSNK\obj\Debug\XSNK.pdb
+J:\Desenv\FONTES\DILT\XSNK\XSNK\bin\Debug\XSNK.exe
+J:\Desenv\FONTES\DILT\XSNK\XSNK\bin\Debug\XSNK.pdb
+J:\Desenv\FONTES\DILT\XSNK\XSNK\obj\Debug\XSNK.csprojResolveAssemblyReference.cache
